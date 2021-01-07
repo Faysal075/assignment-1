@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+}
+.intro-part{
+   margin-bottom: 20px;
+   overflow: hidden;
+}
+.about-part{
+    margin-bottom: 100px;
+    overflow: hidden;
+}
+h1{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
+    color:dimgray;
+    font-size: 50px;
+    height: 20px;
+}
+.name-color{
+    color: rgb(233, 153, 25);
+}
+p{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    color:rgb(11, 56, 56);
+    font-size: larger;
+    height: 100px;
+}
+.paragraph{
+    padding-top: 5%;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 7%;
+    padding-top: 15%;
+}
+.half-width img{
+    width: 100%;
+    margin-left: 2%;
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(161, 66, 29);
+    color: white;
+    font-weight: 400;
+    font-size: 25px;
+    padding: 10px 25px;
+    border-radius: 7px;
+    background-image: linear-gradient(180deg, lightsalmon, tomato);
+}
+h2{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
+    color:rgba(78, 7, 63, 0.918);
+    font-size: 40px;
+    padding-bottom: 5px;
+    line-height: 5px;
+}
+.latest-working-heading{
+    padding-top: 80px;
+    text-align: center;
+    margin-bottom: 10%;
+}
+.latest-color{
+    color: peru;
+}
+
+.img{
+    width: 100%;
+    padding: 1px;  
+}
+h3{
+    font-family: 'Exo 2', sans-serif;
+    font-family: 'Fjalla One', sans-serif;
+    font-family: 'Noto Sans HK', sans-serif;
+    color: rgb(170, 18, 170);
+}
+.img-title{
+    
+    padding-left:5px;
+}
+.img-des{
+    font-size: small;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+.column{
+    float: left;
+    width: 80%;
+    padding: 5px;
+    margin:30%;
+}
+.column{
+    box-shadow: 10px 10px 40px gray;
+    width: 330px;
+    margin:20px;
+    margin-left:5% ;
+    margin-bottom: 5%;
+    padding-bottom: 5px;
+    border-radius: 17px;
+}
+.latest-working{
+    background-color: rgba(253, 246, 246, 0.911);
+    height: 800px;
+}
+.inq-heading-color{
+    
+    padding-top: 5px;
+    margin-top: 190px;
+    margin-left: 5%;
+    color: white;
+    float: left;
+}
+.button{
+    float: right;
+    margin-top: 190px;
+    margin-right: 5%;
+}
+.inquiry-part{
+    height:400px;
+    width: 60%;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    padding: 5px;
+    margin-left: 270px;
+}
+h4{
+    text-align: center;
+    color: rgb(5, 85, 85);
+}
+.designer-mail{
+    text-align: center;
+    color: rgba(78, 7, 63, 0.918);
+}
+footer{
+    height: 300px;
+}
+.icon{
+   text-align: center;
+   font-size: smaller;
+   font-weight: 100;
+
+}
+
